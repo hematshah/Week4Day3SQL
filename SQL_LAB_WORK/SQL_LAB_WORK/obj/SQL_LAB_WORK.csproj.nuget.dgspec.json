@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hemat Shah\\Engineering45\\week4\\Day3\\SQL\\SQL_LAB_WORK\\SQL_LAB_WORK\\SQL_LAB_WORK.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hemat Shah\\Engineering45\\week4\\Day3\\SQL\\SQL_LAB_WORK\\SQL_LAB_WORK\\SQL_LAB_WORK.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hemat Shah\\Engineering45\\week4\\Day3\\SQL\\SQL_LAB_WORK\\SQL_LAB_WORK\\SQL_LAB_WORK.csproj",
+        "projectName": "SQL_LAB_WORK",
+        "projectPath": "C:\\Users\\Hemat Shah\\Engineering45\\week4\\Day3\\SQL\\SQL_LAB_WORK\\SQL_LAB_WORK\\SQL_LAB_WORK.csproj",
+        "packagesPath": "C:\\Users\\Hemat Shah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hemat Shah\\Engineering45\\week4\\Day3\\SQL\\SQL_LAB_WORK\\SQL_LAB_WORK\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Hemat Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

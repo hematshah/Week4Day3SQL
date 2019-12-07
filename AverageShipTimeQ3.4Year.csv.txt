@@ -1,0 +1,30 @@
+﻿The Average Shipping Time Year
+------------------------- -----------
+8                         1996
+8                         1996
+10                        1996
+6                         1996
+8                         1996
+7                         1996
+9                         1997
+9                         1997
+8                         1997
+9                         1997
+9                         1997
+8                         1997
+8                         1997
+6                         1997
+9                         1997
+8                         1997
+8                         1997
+9                         1997
+9                         1998
+7                         1998
+9                         1998
+6                         1998
+2                         1998
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+    (23 row(s) affected)
+    
+

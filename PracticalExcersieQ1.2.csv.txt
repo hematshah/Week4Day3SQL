@@ -1,0 +1,18 @@
+﻿ProductName
+----------------------------------------
+Chang
+Aniseed Syrup
+Genen Shouyu
+Sasquatch Ale
+Steeleye Stout
+Côte de Blaye
+Chartreuse verte
+Sirop d'érable
+Louisiana Fiery Hot Pepper Sauce
+Laughing Lumberjack Lager
+Outback Lager
+Rhönbräu Klosterbier
+
+    (12 row(s) affected)
+    
+

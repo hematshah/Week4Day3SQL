@@ -1,0 +1,11 @@
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\bin\Debug\netcoreapp3.0\SQL_LAB_WORK.exe
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\bin\Debug\netcoreapp3.0\SQL_LAB_WORK.deps.json
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\bin\Debug\netcoreapp3.0\SQL_LAB_WORK.runtimeconfig.json
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\bin\Debug\netcoreapp3.0\SQL_LAB_WORK.runtimeconfig.dev.json
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\bin\Debug\netcoreapp3.0\SQL_LAB_WORK.dll
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\bin\Debug\netcoreapp3.0\SQL_LAB_WORK.pdb
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\obj\Debug\netcoreapp3.0\SQL_LAB_WORK.csprojAssemblyReference.cache
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\obj\Debug\netcoreapp3.0\SQL_LAB_WORK.AssemblyInfoInputs.cache
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\obj\Debug\netcoreapp3.0\SQL_LAB_WORK.AssemblyInfo.cs
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\obj\Debug\netcoreapp3.0\SQL_LAB_WORK.dll
+C:\Users\Hemat Shah\Engineering45\week4\Day3\SQL\SQL_LAB_WORK\SQL_LAB_WORK\obj\Debug\netcoreapp3.0\SQL_LAB_WORK.pdb

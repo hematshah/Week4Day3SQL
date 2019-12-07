@@ -1,0 +1,18 @@
+﻿ProductName                              ContactName                    Country
+---------------------------------------- ------------------------------ ---------------
+Chang                                    Charlotte Cooper               UK
+Aniseed Syrup                            Charlotte Cooper               UK
+Genen Shouyu                             Mayumi Ohno                    Japan
+Sasquatch Ale                            Cheryl Saylor                  USA
+Steeleye Stout                           Cheryl Saylor                  USA
+Côte de Blaye                            Guylène Nodier                 France
+Chartreuse verte                         Guylène Nodier                 France
+Sirop d'érable                           Chantal Goulet                 Canada
+Louisiana Fiery Hot Pepper Sauce         Shelley Burke                  USA
+Laughing Lumberjack Lager                Cheryl Saylor                  USA
+Outback Lager                            Ian Devling                    Australia
+Rhönbräu Klosterbier                     Martin Bein                    Germany
+
+    (12 row(s) affected)
+    
+
